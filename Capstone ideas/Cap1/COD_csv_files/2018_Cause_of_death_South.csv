@@ -1,0 +1,406 @@
+Notes,Race,Race Code,Cause of death,Cause of death Code,Ten-Year Age Groups,Ten-Year Age Groups Code,Gender,Gender Code,Deaths,Population,Crude Rate
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,45-54 years,45-54,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,45-54 years,45-54,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,55-64 years,55-64,Female,F,34,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,55-64 years,55-64,Male,M,27,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,65-74 years,65-74,Female,F,46,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,65-74 years,65-74,Male,M,49,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,75-84 years,75-84,Female,F,37,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,75-84 years,75-84,Male,M,34,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,85+ years,85+,Female,F,31,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Septicaemia, unspecified",A41.9,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stomach, unspecified - Malignant neoplasms",C16.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Colon, unspecified - Malignant neoplasms",C18.9,55-64 years,55-64,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Colon, unspecified - Malignant neoplasms",C18.9,65-74 years,65-74,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pancreas, unspecified - Malignant neoplasms",C25.9,55-64 years,55-64,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pancreas, unspecified - Malignant neoplasms",C25.9,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pancreas, unspecified - Malignant neoplasms",C25.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55-64 years,55-64,Female,F,33,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55-64 years,55-64,Male,M,36,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65-74 years,65-74,Female,F,25,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65-74 years,65-74,Male,M,54,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,75-84 years,75-84,Female,F,19,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,75-84 years,75-84,Male,M,20,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Breast, unspecified - Malignant neoplasms",C50.9,35-44 years,35-44,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Breast, unspecified - Malignant neoplasms",C50.9,45-54 years,45-54,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Breast, unspecified - Malignant neoplasms",C50.9,55-64 years,55-64,Female,F,23,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Breast, unspecified - Malignant neoplasms",C50.9,65-74 years,65-74,Female,F,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,Malignant neoplasm of prostate,C61,65-74 years,65-74,Male,M,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,Malignant neoplasm of prostate,C61,75-84 years,75-84,Male,M,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,Malignant neoplasm of prostate,C61,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,Malignant neoplasm without specification of site,C80,55-64 years,55-64,Female,F,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,Malignant neoplasm without specification of site,C80,65-74 years,65-74,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Unspecified diabetes mellitus, with renal complications",E14.2,65-74 years,65-74,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Unspecified diabetes mellitus, without complications",E14.9,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Unspecified diabetes mellitus, without complications",E14.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Unspecified diabetes mellitus, without complications",E14.9,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Unspecified diabetes mellitus, without complications",E14.9,75-84 years,75-84,Male,M,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,Unspecified dementia,F03,85+ years,85+,Female,F,27,Not Applicable,Not Applicable
+,Black or African American,2054-5,Unspecified dementia,F03,85+ years,85+,Male,M,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Alzheimer disease, unspecified",G30.9,85+ years,85+,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Anoxic brain damage, not elsewhere classified",G93.1,45-54 years,45-54,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Anoxic brain damage, not elsewhere classified",G93.1,55-64 years,55-64,Female,F,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Anoxic brain damage, not elsewhere classified",G93.1,65-74 years,65-74,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Anoxic brain damage, not elsewhere classified",G93.1,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,45-54 years,45-54,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,45-54 years,45-54,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,55-64 years,55-64,Female,F,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,55-64 years,55-64,Male,M,30,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,65-74 years,65-74,Female,F,22,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,65-74 years,65-74,Male,M,32,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,75-84 years,75-84,Female,F,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,75-84 years,75-84,Male,M,17,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,85+ years,85+,Female,F,17,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Acute myocardial infarction, unspecified",I21.9,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,55-64 years,55-64,Female,F,22,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,55-64 years,55-64,Male,M,19,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,65-74 years,65-74,Female,F,18,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,65-74 years,65-74,Male,M,41,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,75-84 years,75-84,Female,F,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,75-84 years,75-84,Male,M,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,Atherosclerotic heart disease,I25.1,85+ years,85+,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pulmonary embolism without mention of acute cor pulmonale,I26.9,65-74 years,65-74,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pulmonary embolism without mention of acute cor pulmonale,I26.9,85+ years,85+,Female,F,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiomyopathy, unspecified",I42.9,55-64 years,55-64,Male,M,16,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiomyopathy, unspecified",I42.9,65-74 years,65-74,Male,M,17,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiomyopathy, unspecified",I42.9,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,45-54 years,45-54,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,45-54 years,45-54,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,55-64 years,55-64,Female,F,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,55-64 years,55-64,Male,M,20,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,65-74 years,65-74,Female,F,20,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,65-74 years,65-74,Male,M,26,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,75-84 years,75-84,Female,F,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Cardiac arrest, unspecified",I46.9,85+ years,85+,Female,F,17,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,55-64 years,55-64,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,65-74 years,65-74,Female,F,20,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,65-74 years,65-74,Male,M,16,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,75-84 years,75-84,Female,F,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,Congestive heart failure,I50.0,85+ years,85+,Female,F,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Heart failure, unspecified",I50.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Intracerebral haemorrhage, unspecified",I61.9,55-64 years,55-64,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Intracerebral haemorrhage, unspecified",I61.9,55-64 years,55-64,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Intracerebral haemorrhage, unspecified",I61.9,65-74 years,65-74,Female,F,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,55-64 years,55-64,Female,F,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,55-64 years,55-64,Male,M,18,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,65-74 years,65-74,Female,F,18,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,65-74 years,65-74,Male,M,21,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,75-84 years,75-84,Female,F,16,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Stroke, not specified as haemorrhage or infarction",I64,85+ years,85+,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,55-64 years,55-64,Female,F,20,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,55-64 years,55-64,Male,M,17,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,65-74 years,65-74,Female,F,15,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,65-74 years,65-74,Male,M,28,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,75-84 years,75-84,Female,F,29,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,75-84 years,75-84,Male,M,16,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,85+ years,85+,Female,F,31,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Pneumonia, unspecified",J18.9,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic obstructive pulmonary disease, unspecified",J44.9,55-64 years,55-64,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic obstructive pulmonary disease, unspecified",J44.9,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic obstructive pulmonary disease, unspecified",J44.9,65-74 years,65-74,Male,M,30,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic obstructive pulmonary disease, unspecified",J44.9,75-84 years,75-84,Male,M,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pneumonitis due to food and vomit,J69.0,65-74 years,65-74,Male,M,16,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pneumonitis due to food and vomit,J69.0,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pneumonitis due to food and vomit,J69.0,85+ years,85+,Female,F,13,Not Applicable,Not Applicable
+,Black or African American,2054-5,Pneumonitis due to food and vomit,J69.0,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Gastrointestinal haemorrhage, unspecified",K92.2,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Gastrointestinal haemorrhage, unspecified",K92.2,65-74 years,65-74,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,45-54 years,45-54,Male,M,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,55-64 years,55-64,Female,F,19,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,55-64 years,55-64,Male,M,15,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,65-74 years,65-74,Female,F,24,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,65-74 years,65-74,Male,M,18,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,75-84 years,75-84,Female,F,10,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Chronic kidney disease, stage 5",N18.5,75-84 years,75-84,Male,M,14,Not Applicable,Not Applicable
+,Black or African American,2054-5,Unspecified renal failure,N19,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,"Urinary tract infection, site not specified",N39.0,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,Black or African American,2054-5,Extreme immaturity,P07.2,< 1 year,1,Female,F,30,Not Applicable,Not Applicable
+,Black or African American,2054-5,Extreme immaturity,P07.2,< 1 year,1,Male,M,30,Not Applicable,Not Applicable
+,White,2106-3,Enterocolitis due to Clostridium difficile,A04.7,85+ years,85+,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,45-54 years,45-54,Female,F,20,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,45-54 years,45-54,Male,M,17,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,55-64 years,55-64,Female,F,53,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,55-64 years,55-64,Male,M,53,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,65-74 years,65-74,Female,F,63,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,65-74 years,65-74,Male,M,86,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,75-84 years,75-84,Female,F,87,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,75-84 years,75-84,Male,M,61,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,85+ years,85+,Female,F,58,Not Applicable,Not Applicable
+,White,2106-3,"Septicaemia, unspecified",A41.9,85+ years,85+,Male,M,37,Not Applicable,Not Applicable
+,White,2106-3,"Oesophagus, unspecified - Malignant neoplasms",C15.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Colon, unspecified - Malignant neoplasms",C18.9,55-64 years,55-64,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Colon, unspecified - Malignant neoplasms",C18.9,65-74 years,65-74,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Colon, unspecified - Malignant neoplasms",C18.9,65-74 years,65-74,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,"Colon, unspecified - Malignant neoplasms",C18.9,75-84 years,75-84,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,Liver cell carcinoma - Malignant neoplasms,C22.0,65-74 years,65-74,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,"Pancreas, unspecified - Malignant neoplasms",C25.9,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Pancreas, unspecified - Malignant neoplasms",C25.9,65-74 years,65-74,Female,F,13,Not Applicable,Not Applicable
+,White,2106-3,"Pancreas, unspecified - Malignant neoplasms",C25.9,65-74 years,65-74,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Pancreas, unspecified - Malignant neoplasms",C25.9,75-84 years,75-84,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Pancreas, unspecified - Malignant neoplasms",C25.9,75-84 years,75-84,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,45-54 years,45-54,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55-64 years,55-64,Female,F,49,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,55-64 years,55-64,Male,M,69,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65-74 years,65-74,Female,F,65,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,65-74 years,65-74,Male,M,121,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,75-84 years,75-84,Female,F,50,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,75-84 years,75-84,Male,M,78,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,85+ years,85+,Female,F,18,Not Applicable,Not Applicable
+,White,2106-3,"Bronchus or lung, unspecified - Malignant neoplasms",C34.9,85+ years,85+,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,"Breast, unspecified - Malignant neoplasms",C50.9,45-54 years,45-54,Female,F,13,Not Applicable,Not Applicable
+,White,2106-3,"Breast, unspecified - Malignant neoplasms",C50.9,55-64 years,55-64,Female,F,26,Not Applicable,Not Applicable
+,White,2106-3,"Breast, unspecified - Malignant neoplasms",C50.9,65-74 years,65-74,Female,F,31,Not Applicable,Not Applicable
+,White,2106-3,"Breast, unspecified - Malignant neoplasms",C50.9,75-84 years,75-84,Female,F,18,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm of prostate,C61,65-74 years,65-74,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm of prostate,C61,75-84 years,75-84,Male,M,22,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm of prostate,C61,85+ years,85+,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,"Bladder, unspecified - Malignant neoplasms",C67.9,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm without specification of site,C80,55-64 years,55-64,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm without specification of site,C80,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm without specification of site,C80,65-74 years,65-74,Male,M,26,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm without specification of site,C80,75-84 years,75-84,Female,F,13,Not Applicable,Not Applicable
+,White,2106-3,Malignant neoplasm without specification of site,C80,75-84 years,75-84,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,Multiple myeloma - Malignant neoplasms,C90.0,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,Multiple myeloma - Malignant neoplasms,C90.0,65-74 years,65-74,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Unspecified diabetes mellitus, without complications",E14.9,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Unspecified diabetes mellitus, without complications",E14.9,65-74 years,65-74,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,"Unspecified diabetes mellitus, without complications",E14.9,65-74 years,65-74,Male,M,15,Not Applicable,Not Applicable
+,White,2106-3,"Unspecified diabetes mellitus, without complications",E14.9,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,"Unspecified diabetes mellitus, without complications",E14.9,75-84 years,75-84,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,Acidosis,E87.2,85+ years,85+,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,Unspecified dementia,F03,75-84 years,75-84,Female,F,18,Not Applicable,Not Applicable
+,White,2106-3,Unspecified dementia,F03,75-84 years,75-84,Male,M,34,Not Applicable,Not Applicable
+,White,2106-3,Unspecified dementia,F03,85+ years,85+,Female,F,56,Not Applicable,Not Applicable
+,White,2106-3,Unspecified dementia,F03,85+ years,85+,Male,M,32,Not Applicable,Not Applicable
+,White,2106-3,"Alzheimer disease, unspecified",G30.9,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Alzheimer disease, unspecified",G30.9,85+ years,85+,Female,F,29,Not Applicable,Not Applicable
+,White,2106-3,"Alzheimer disease, unspecified",G30.9,85+ years,85+,Male,M,19,Not Applicable,Not Applicable
+,White,2106-3,"Anoxic brain damage, not elsewhere classified",G93.1,55-64 years,55-64,Female,F,15,Not Applicable,Not Applicable
+,White,2106-3,"Anoxic brain damage, not elsewhere classified",G93.1,55-64 years,55-64,Male,M,23,Not Applicable,Not Applicable
+,White,2106-3,"Anoxic brain damage, not elsewhere classified",G93.1,65-74 years,65-74,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Anoxic brain damage, not elsewhere classified",G93.1,65-74 years,65-74,Male,M,21,Not Applicable,Not Applicable
+,White,2106-3,"Anoxic brain damage, not elsewhere classified",G93.1,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,Acute subendocardial myocardial infarction,I21.4,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Acute subendocardial myocardial infarction,I21.4,65-74 years,65-74,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,Acute subendocardial myocardial infarction,I21.4,75-84 years,75-84,Female,F,21,Not Applicable,Not Applicable
+,White,2106-3,Acute subendocardial myocardial infarction,I21.4,75-84 years,75-84,Male,M,19,Not Applicable,Not Applicable
+,White,2106-3,Acute subendocardial myocardial infarction,I21.4,85+ years,85+,Female,F,21,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,45-54 years,45-54,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,45-54 years,45-54,Male,M,25,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,55-64 years,55-64,Female,F,32,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,55-64 years,55-64,Male,M,73,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,65-74 years,65-74,Female,F,44,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,65-74 years,65-74,Male,M,88,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,75-84 years,75-84,Female,F,62,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,75-84 years,75-84,Male,M,88,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,85+ years,85+,Female,F,61,Not Applicable,Not Applicable
+,White,2106-3,"Acute myocardial infarction, unspecified",I21.9,85+ years,85+,Male,M,53,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,45-54 years,45-54,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,55-64 years,55-64,Female,F,26,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,55-64 years,55-64,Male,M,70,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,65-74 years,65-74,Female,F,40,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,65-74 years,65-74,Male,M,101,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,75-84 years,75-84,Female,F,58,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,75-84 years,75-84,Male,M,126,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,85+ years,85+,Female,F,50,Not Applicable,Not Applicable
+,White,2106-3,Atherosclerotic heart disease,I25.1,85+ years,85+,Male,M,57,Not Applicable,Not Applicable
+,White,2106-3,Ischaemic cardiomyopathy,I25.5,55-64 years,55-64,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,Ischaemic cardiomyopathy,I25.5,65-74 years,65-74,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,Ischaemic cardiomyopathy,I25.5,75-84 years,75-84,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,Pulmonary embolism without mention of acute cor pulmonale,I26.9,65-74 years,65-74,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,Pulmonary embolism without mention of acute cor pulmonale,I26.9,75-84 years,75-84,Female,F,16,Not Applicable,Not Applicable
+,White,2106-3,Pulmonary embolism without mention of acute cor pulmonale,I26.9,85+ years,85+,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,Other secondary pulmonary hypertension,I27.2,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,Aortic (valve) stenosis,I35.0,75-84 years,75-84,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Aortic (valve) stenosis,I35.0,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,Aortic (valve) stenosis,I35.0,85+ years,85+,Female,F,20,Not Applicable,Not Applicable
+,White,2106-3,Aortic (valve) stenosis,I35.0,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Endocarditis, valve unspecified",I38,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Cardiomyopathy, unspecified",I42.9,65-74 years,65-74,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,"Cardiomyopathy, unspecified",I42.9,75-84 years,75-84,Male,M,25,Not Applicable,Not Applicable
+,White,2106-3,"Cardiomyopathy, unspecified",I42.9,85+ years,85+,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,"Cardiomyopathy, unspecified",I42.9,85+ years,85+,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,45-54 years,45-54,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,55-64 years,55-64,Female,F,24,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,55-64 years,55-64,Male,M,36,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,65-74 years,65-74,Female,F,31,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,65-74 years,65-74,Male,M,48,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,75-84 years,75-84,Female,F,44,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,75-84 years,75-84,Male,M,46,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,85+ years,85+,Female,F,39,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrest, unspecified",I46.9,85+ years,85+,Male,M,30,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,65-74 years,65-74,Female,F,17,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,65-74 years,65-74,Male,M,17,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,75-84 years,75-84,Female,F,42,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,75-84 years,75-84,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,85+ years,85+,Female,F,52,Not Applicable,Not Applicable
+,White,2106-3,Atrial fibrillation and flutter,I48,85+ years,85+,Male,M,24,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrhythmia, unspecified",I49.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Cardiac arrhythmia, unspecified",I49.9,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,55-64 years,55-64,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,65-74 years,65-74,Male,M,33,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,75-84 years,75-84,Female,F,41,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,75-84 years,75-84,Male,M,47,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,85+ years,85+,Female,F,62,Not Applicable,Not Applicable
+,White,2106-3,Congestive heart failure,I50.0,85+ years,85+,Male,M,52,Not Applicable,Not Applicable
+,White,2106-3,"Heart failure, unspecified",I50.9,75-84 years,75-84,Female,F,20,Not Applicable,Not Applicable
+,White,2106-3,"Heart failure, unspecified",I50.9,75-84 years,75-84,Male,M,17,Not Applicable,Not Applicable
+,White,2106-3,"Heart failure, unspecified",I50.9,85+ years,85+,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,"Heart failure, unspecified",I50.9,85+ years,85+,Male,M,15,Not Applicable,Not Applicable
+,White,2106-3,"Subarachnoid haemorrhage, unspecified",I60.9,55-64 years,55-64,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,"Intracerebral haemorrhage, unspecified",I61.9,65-74 years,65-74,Female,F,17,Not Applicable,Not Applicable
+,White,2106-3,"Intracerebral haemorrhage, unspecified",I61.9,65-74 years,65-74,Male,M,21,Not Applicable,Not Applicable
+,White,2106-3,"Intracerebral haemorrhage, unspecified",I61.9,75-84 years,75-84,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,"Intracerebral haemorrhage, unspecified",I61.9,75-84 years,75-84,Male,M,24,Not Applicable,Not Applicable
+,White,2106-3,"Intracerebral haemorrhage, unspecified",I61.9,85+ years,85+,Female,F,33,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,55-64 years,55-64,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,55-64 years,55-64,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,65-74 years,65-74,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,65-74 years,65-74,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,75-84 years,75-84,Female,F,15,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Intracranial haemorrhage (nontraumatic), unspecified",I62.9,85+ years,85+,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Cerebral infarction, unspecified",I63.9,55-64 years,55-64,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Cerebral infarction, unspecified",I63.9,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,55-64 years,55-64,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,65-74 years,65-74,Female,F,27,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,65-74 years,65-74,Male,M,33,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,75-84 years,75-84,Female,F,39,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,75-84 years,75-84,Male,M,32,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,85+ years,85+,Female,F,51,Not Applicable,Not Applicable
+,White,2106-3,"Stroke, not specified as haemorrhage or infarction",I64,85+ years,85+,Male,M,25,Not Applicable,Not Applicable
+,White,2106-3,"Abdominal aortic aneurysm, ruptured",I71.3,65-74 years,65-74,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,45-54 years,45-54,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,55-64 years,55-64,Female,F,32,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,55-64 years,55-64,Male,M,22,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,65-74 years,65-74,Female,F,46,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,65-74 years,65-74,Male,M,60,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,75-84 years,75-84,Female,F,94,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,75-84 years,75-84,Male,M,82,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,85+ years,85+,Female,F,122,Not Applicable,Not Applicable
+,White,2106-3,"Pneumonia, unspecified",J18.9,85+ years,85+,Male,M,83,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,55-64 years,55-64,Male,M,15,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,65-74 years,65-74,Female,F,23,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,65-74 years,65-74,Male,M,28,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,75-84 years,75-84,Female,F,26,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,75-84 years,75-84,Male,M,34,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,85+ years,85+,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Chronic obstructive pulmonary disease with acute lower respiratory infection,J44.0,85+ years,85+,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,65-74 years,65-74,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",J44.1,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,55-64 years,55-64,Female,F,29,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,55-64 years,55-64,Male,M,29,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,65-74 years,65-74,Female,F,66,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,65-74 years,65-74,Male,M,76,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,75-84 years,75-84,Female,F,65,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,75-84 years,75-84,Male,M,66,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,85+ years,85+,Female,F,41,Not Applicable,Not Applicable
+,White,2106-3,"Chronic obstructive pulmonary disease, unspecified",J44.9,85+ years,85+,Male,M,36,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,55-64 years,55-64,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,65-74 years,65-74,Female,F,16,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,65-74 years,65-74,Male,M,17,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,75-84 years,75-84,Female,F,32,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,75-84 years,75-84,Male,M,36,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,85+ years,85+,Female,F,39,Not Applicable,Not Applicable
+,White,2106-3,Pneumonitis due to food and vomit,J69.0,85+ years,85+,Male,M,41,Not Applicable,Not Applicable
+,White,2106-3,Other interstitial pulmonary diseases with fibrosis,J84.1,65-74 years,65-74,Male,M,21,Not Applicable,Not Applicable
+,White,2106-3,Other interstitial pulmonary diseases with fibrosis,J84.1,75-84 years,75-84,Male,M,21,Not Applicable,Not Applicable
+,White,2106-3,"Interstitial pulmonary disease, unspecified",J84.9,65-74 years,65-74,Male,M,14,Not Applicable,Not Applicable
+,White,2106-3,Acute respiratory failure,J96.0,75-84 years,75-84,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,"Respiratory failure, unspecified",J96.9,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,"Vascular disorder of intestine, unspecified",K55.9,65-74 years,65-74,Female,F,16,Not Applicable,Not Applicable
+,White,2106-3,"Vascular disorder of intestine, unspecified",K55.9,75-84 years,75-84,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified intestinal obstruction,K56.6,85+ years,85+,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,Perforation of intestine (nontraumatic),K63.1,75-84 years,75-84,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,Alcoholic cirrhosis of liver,K70.3,55-64 years,55-64,Male,M,25,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,45-54 years,45-54,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,45-54 years,45-54,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,55-64 years,55-64,Female,F,18,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,55-64 years,55-64,Male,M,28,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,65-74 years,65-74,Female,F,25,Not Applicable,Not Applicable
+,White,2106-3,Other and unspecified cirrhosis of liver,K74.6,65-74 years,65-74,Male,M,31,Not Applicable,Not Applicable
+,White,2106-3,"Gastrointestinal haemorrhage, unspecified",K92.2,65-74 years,65-74,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,"Gastrointestinal haemorrhage, unspecified",K92.2,75-84 years,75-84,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,"Gastrointestinal haemorrhage, unspecified",K92.2,75-84 years,75-84,Male,M,17,Not Applicable,Not Applicable
+,White,2106-3,"Gastrointestinal haemorrhage, unspecified",K92.2,85+ years,85+,Female,F,15,Not Applicable,Not Applicable
+,White,2106-3,"Gastrointestinal haemorrhage, unspecified",K92.2,85+ years,85+,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Acute renal failure, unspecified",N17.9,65-74 years,65-74,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,"Acute renal failure, unspecified",N17.9,75-84 years,75-84,Female,F,15,Not Applicable,Not Applicable
+,White,2106-3,"Acute renal failure, unspecified",N17.9,75-84 years,75-84,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,"Acute renal failure, unspecified",N17.9,85+ years,85+,Female,F,13,Not Applicable,Not Applicable
+,White,2106-3,"Chronic kidney disease, stage 5",N18.5,55-64 years,55-64,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Chronic kidney disease, stage 5",N18.5,65-74 years,65-74,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,"Chronic kidney disease, stage 5",N18.5,65-74 years,65-74,Male,M,16,Not Applicable,Not Applicable
+,White,2106-3,"Chronic kidney disease, stage 5",N18.5,75-84 years,75-84,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,"Chronic kidney disease, stage 5",N18.5,75-84 years,75-84,Male,M,19,Not Applicable,Not Applicable
+,White,2106-3,"Chronic renal failure, unspecified",N18.9,75-84 years,75-84,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,Unspecified renal failure,N19,65-74 years,65-74,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,Unspecified renal failure,N19,65-74 years,65-74,Male,M,15,Not Applicable,Not Applicable
+,White,2106-3,Unspecified renal failure,N19,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,Unspecified renal failure,N19,85+ years,85+,Male,M,11,Not Applicable,Not Applicable
+,White,2106-3,Other specified disorders of kidney and ureter,N28.8,65-74 years,65-74,Male,M,13,Not Applicable,Not Applicable
+,White,2106-3,Other specified disorders of kidney and ureter,N28.8,75-84 years,75-84,Female,F,13,Not Applicable,Not Applicable
+,White,2106-3,Other specified disorders of kidney and ureter,N28.8,75-84 years,75-84,Male,M,10,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,55-64 years,55-64,Female,F,12,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,65-74 years,65-74,Female,F,14,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,75-84 years,75-84,Female,F,25,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,75-84 years,75-84,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,85+ years,85+,Female,F,47,Not Applicable,Not Applicable
+,White,2106-3,"Urinary tract infection, site not specified",N39.0,85+ years,85+,Male,M,12,Not Applicable,Not Applicable
+,White,2106-3,Extreme immaturity,P07.2,< 1 year,1,Female,F,10,Not Applicable,Not Applicable
+,White,2106-3,Extreme immaturity,P07.2,< 1 year,1,Male,M,18,Not Applicable,Not Applicable
+,White,2106-3,Other ill-defined and unspecified causes of mortality,R99,< 1 year,1,Female,F,11,Not Applicable,Not Applicable
+,White,2106-3,Unspecified fall,W19,85+ years,85+,Female,F,10,Not Applicable,Not Applicable
+---,,,,,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2018",,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,
+Title: 2018 Cause of death South,,,,,,,,,,,
+Autopsy: Unknown,,,,,,,,,,,
+Census Regions: Census Region 3: South (CENS-R3),,,,,,,,,,,
+Place of Death: Medical Facility - Inpatient; Medical Facility - Outpatient or ER,,,,,,,,,,,
+Year/Month: 2018,,,,,,,,,,,
+Group By: Race; Cause of death; Ten-Year Age Groups; Gender,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,
+Show Zero Values: Disabled,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,,
+---,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,,,
+---,,,,,,,,,,,
+"Query Date: May 1, 2020 5:19:35 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death",,,,,,,,,,,
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as",,,,,,,,,,,
+compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed,,,,,,,,,,,
+"at http://wonder.cdc.gov/ucd-icd10.html on May 1, 2020 5:19:35 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+Messages:,,,,,,,,,,,
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will",,,,,,,,,,,
+not be available.,,,,,,,,,,,
+---,,,,,,,,,,,
+Caveats:,,,,,,,,,,,
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,",,,,,,,,,,,
+due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates.,,,,,,,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,,,,,
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated.,,,,,,,,,,,
+4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,,,,,,,,,,,
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",,,,,,,,,,,
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,,,,,,,,,,,
+"are inconsistent between these two data sources, death rates will be biased. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.,,,,,,,,,,,
+"5. The Place of Death category 'Medical Facility - Status unknown' is only available from 1999 - 2002, and 'Hospice facility' is",,,,,,,,,,,
+only available for 2003 and later.,,,,,,,,,,,
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99",,,,,,,,,,,
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences",,,,,,,,,,,
+in information available to individual states and probable errors. Caution should be used in interpreting these data. More,,,,,,,,,,,
+information can be found at: https://www.cdc.gov/nchs/maternal-mortality/.,,,,,,,,,,,
+7. Changes to cause of death classification affect reporting trends. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.,,,,,,,,,,,
